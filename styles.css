@@ -1,0 +1,61 @@
+.logo1{
+    height: 60px;
+
+}
+.navbar{
+    position: fixed;
+    z-index: 2;
+
+}
+.nav-item1{
+    margin-left: 800px;
+    padding: 0%;
+    color: white;
+}
+.backimg{
+    width: 100%;
+}
+hr{
+    position: relative;
+    top: -1300px;
+    color: white;
+}
+.nav-link{
+    color: white;
+}
+ span{
+    color: gold;
+ }
+.sech1{
+    z-index: 2;
+    position: absolute;
+    top: 222px;
+    left: 169px;
+    color: white;
+    font-size: 75px;
+    line-height: 2;
+}
+.secp1{
+    z-index: 2;
+    position: absolute;
+    top: 519px;
+    left: 171px;
+    color: white;
+}
+.pic1{
+    z-index: 2;
+    position: absolute;
+    top: 149px;
+    left: 906px;
+}
+.button2{
+    z-index: 2;
+    color:black;
+    background-color: gold; 
+    position: relative;
+    top: -223px;
+    left: 169px;
+}
+.gyu{
+    background-color: black;
+}
